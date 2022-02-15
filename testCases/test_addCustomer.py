@@ -19,6 +19,7 @@ class Test_003_AddCustomer:
         self.logger.info("************* Test_003_AddCustomer **********")
         self.driver = setup
         self.driver.get(self.baseURL)
+        self.driver.implicitly_wait(25)
         self.driver.maximize_window()
 
         self.lp = LoginPage(self.driver)

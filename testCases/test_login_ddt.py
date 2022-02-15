@@ -20,6 +20,8 @@ class Test_002_DDT_Login:
         self.logger.info("******************** Verifying login test ********************")
         self.driver = setup
         self.driver.get(self.baseURL)
+        self.driver.implicitly_wait(25)
+        self.driver.maximize_window()
         self.lp = LoginPage(self.driver)
         self.rows = XLUtils.getRowCount(self.path, 'Sheet1')
         print("Number of rows in excel:", self.rows)

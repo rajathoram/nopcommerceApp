@@ -930,3 +930,17 @@
 2022-02-15 19:31:38,623 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 2022-02-15 19:31:38,623 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 2022-02-15 19:31:38,623 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-02-19 16:31:50,714 - root - INFO - ******************** Test_001_Login ********************
+2022-02-19 16:31:50,714 - root - INFO - ******************** Verifying Home page Title ********************
+2022-02-19 16:32:09,909 - root - INFO - ********* Home page title test is passed **********
+2022-02-19 16:32:10,978 - root - INFO - ******************** Verifying login test ********************
+2022-02-19 16:33:57,800 - root - INFO - ******************** Test_001_Login ********************
+2022-02-19 16:33:57,800 - root - INFO - ******************** Verifying Home page Title ********************
+2022-02-19 16:34:04,181 - root - INFO - ********* Home page title test is passed **********
+2022-02-19 16:34:05,263 - root - INFO - ******************** Verifying login test ********************
+2022-02-19 16:34:26,638 - root - INFO - ******** Login test is passed ********
+2022-02-19 16:39:52,420 - root - INFO - ******************** Test_001_Login ********************
+2022-02-19 16:39:52,420 - root - INFO - ******************** Verifying Home page Title ********************
+2022-02-19 16:39:55,112 - root - INFO - ********* Home page title test is passed **********
+2022-02-19 16:39:56,265 - root - INFO - ******************** Verifying login test ********************
+2022-02-19 16:40:02,734 - root - INFO - ******** Login test is passed ********

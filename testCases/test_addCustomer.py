@@ -47,6 +47,7 @@ class Test_003_AddCustomer:
         self.addcust.setGender("Male")
         self.addcust.setDob("7/05/1985")  # Format: D / MM / YYY
         self.addcust.setCompanyName("busyQA")
+        self.addcust.setNewsLetter("Your store name")
         self.addcust.setCustomerRoles("Guests")
         self.addcust.setManagerOfVendor("Vendor 2")
         self.addcust.setAdminContent("This is for testing.........")

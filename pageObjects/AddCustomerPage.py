@@ -15,6 +15,9 @@ class AddCustomer:
     rdFeMaleGender_id = "Gender_Female"
     txtDob_xpath = "//input[@id='DateOfBirth']"
     txtCompanyName_xpath = "//input[@id='Company']"
+    # txt_newsletter_xpath = "//div[@class='k-multiselect-wrap k-floatwrap']"
+    # lstitem_yourstorename_xpath = "//li[contains(text(),'Your store name')]"
+    # lstitem_teststore2_xpath = "//li[contains(text(),'Test store 2')]"
     txtcustomerRoles_xpath = "//div[@class='k-multiselect-wrap k-floatwrap']"
     lstitemAdministrators_xpath = "//li[contains(text(),'Administrators')]"
     lstitemRegistered_xpath = "//li[contains(text(),'Registered')]"
@@ -63,6 +66,16 @@ class AddCustomer:
     def setCompanyName(self, comname):
         self.driver.find_element_by_xpath(self.txtCompanyName_xpath).send_keys(comname)
 
+    # def setNewsLetter(self, option):
+    #     self.driver.find_element_by_xpath(self.txt_newsletter_xpath).send_keys(option)
+    #     time.sleep(5)
+    #     if option == 'Your store name':
+    #         self.lstitem = self.driver.find_element_by_xpath(self.lstitem_yourstorename_xpath)
+    #     elif option == 'Test store 2':
+    #         self.lstitem = self.driver.find_element_by_xpath(self.lstitem_teststore2_xpath)
+    #     time.sleep(5)
+    #     self.lstitem.click()
+    #     # self.driver.execute_script("arguments[0].click();", self.lstitem)
 
     def setCustomerRoles(self, role):
         self.driver.find_element_by_xpath(self.txtcustomerRoles_xpath).click()

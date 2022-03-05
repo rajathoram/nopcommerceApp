@@ -944,3 +944,40 @@
 2022-02-19 16:39:55,112 - root - INFO - ********* Home page title test is passed **********
 2022-02-19 16:39:56,265 - root - INFO - ******************** Verifying login test ********************
 2022-02-19 16:40:02,734 - root - INFO - ******** Login test is passed ********
+2022-03-04 17:35:15,518 - root - INFO - ******************** Test_001_Login ********************
+2022-03-04 17:35:15,518 - root - INFO - ******************** Verifying Home page Title ********************
+2022-03-04 17:35:17,362 - root - INFO - ********* Home page title test is passed **********
+2022-03-04 17:35:18,486 - root - INFO - ******************** Verifying login test ********************
+2022-03-04 17:35:38,668 - root - INFO - ******** Login test is passed ********
+2022-03-04 17:58:09,519 - root - INFO - ************* SearchCustomerByEmail_004 **********
+2022-03-04 17:58:30,137 - root - INFO - ************* Login succesful **********
+2022-03-04 17:58:30,137 - root - INFO - ******* Starting Search Customer By Email **********
+2022-03-04 17:58:31,704 - root - INFO - ************* searching customer by emailID **********
+2022-03-04 17:58:36,963 - root - INFO - ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+2022-03-04 18:14:39,806 - root - INFO - ************* SearchCustomerByName_005 **********
+2022-03-04 18:14:45,841 - root - INFO - ************* Login succesful **********
+2022-03-04 18:14:45,841 - root - INFO - ******* Starting Search Customer By Name **********
+2022-03-04 18:14:49,257 - root - INFO - ************* searching customer by Name **********
+2022-03-04 18:14:54,595 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2022-03-04 18:16:31,053 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 18:20:50,264 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 18:21:12,161 - root - INFO - ************* Login succesful **********
+2022-03-04 18:21:12,161 - root - INFO - ******* Starting Add Customer Test **********
+2022-03-04 18:21:21,096 - root - INFO - ************* Providing customer info **********
+2022-03-04 22:14:36,634 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 22:15:12,541 - root - INFO - ************* Login succesful **********
+2022-03-04 22:15:12,548 - root - INFO - ******* Starting Add Customer Test **********
+2022-03-04 22:15:28,955 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 22:16:23,736 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 22:16:45,196 - root - INFO - ************* Login succesful **********
+2022-03-04 22:16:45,196 - root - INFO - ******* Starting Add Customer Test **********
+2022-03-04 22:16:54,714 - root - INFO - ************* Providing customer info **********
+2022-03-04 23:03:36,341 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 23:03:45,431 - root - INFO - ************* Login succesful **********
+2022-03-04 23:03:45,431 - root - INFO - ******* Starting Add Customer Test **********
+2022-03-04 23:03:53,219 - root - INFO - ************* Providing customer info **********
+2022-03-04 23:19:52,126 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 23:20:58,842 - root - INFO - ************* Test_003_AddCustomer **********
+2022-03-04 23:21:20,497 - root - INFO - ************* Login succesful **********
+2022-03-04 23:21:20,497 - root - INFO - ******* Starting Add Customer Test **********
+2022-03-04 23:21:32,162 - root - INFO - ************* Providing customer info **********
